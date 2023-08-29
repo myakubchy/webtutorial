@@ -4,6 +4,8 @@ This is an example repository for the Git tutoial on https://myakub.com
 
 This repository is built step by step in the tutorial.
 
-Changing it.
+How git can help us in our programmming?
 
-Changing it again.
+How git can make it easy to work from different team mebers remote.
+
+
